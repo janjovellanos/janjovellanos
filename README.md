@@ -1,5 +1,5 @@
 #### Hello! I'm Jan. 👋🏽
-* I'm interested in music 🎧 and fashion 🥼
+* I'm interested in music 🎧 and fashion 👔
 * I'm currently working with Python 🐍 
 * I'm looking to collaborate on UI Projects 📁
 * I'm looking for help with Flask 🧪
